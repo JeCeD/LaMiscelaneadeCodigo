@@ -4,3 +4,4 @@ x = {"Hola", "Mundo"}
 print (type(x))
 print (len(lista))
 #print (str(numero))
+# Problemas de algoritmia avanzada Openlibra
