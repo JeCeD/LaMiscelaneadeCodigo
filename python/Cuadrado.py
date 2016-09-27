@@ -6,4 +6,4 @@ def factorial (n):
         factorial (n+1)
     
     
-# factorial(0)
+factorial(0)
