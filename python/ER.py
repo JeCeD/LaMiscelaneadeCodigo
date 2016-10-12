@@ -1,3 +1,4 @@
+
 import re
 #print(re.search(r"\d K","asgtrgg"))
 
@@ -6,3 +7,7 @@ import re
 
 if (re.research("Aa[0-9].*{end|fin}$"."a4asdv sd ad"))
   print ("Se encontro la cadena")
+
+#_______________________________________________________________
+
+print (re.sub(r"\d",""))
